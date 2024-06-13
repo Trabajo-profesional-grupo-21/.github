@@ -8,10 +8,10 @@
 
 | Nombre y Apellido    | Mail                |
   -------------------- | ------------------- |
-  Agustina Segura      | mail@fi.uba.ar      |
-  Ignacio Iragui       | mail@fi.uba.ar      |
-  Maria Sol Fontenla       | mail@fi.uba.ar      |
-  Santiago Fernandez Caruso       | mail@fi.uba.ar      |
+  Agustina Segura      | asegura@fi.uba.ar      |
+  Ignacio Iragui       | iiragui@fi.uba.ar      |
+  Maria Sol Fontenla       | msfontenla@fi.uba.ar      |
+  Santiago Fernandez Caruso       | sfernandezc@fi.uba.ar      |
 
 
 
