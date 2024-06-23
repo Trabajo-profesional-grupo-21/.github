@@ -17,7 +17,7 @@
 
 ### **Links útiles**
 
-[:books: Informe]() WIP
+[:books: Informe](https://github.com/Trabajo-profesional-grupo-21/.github/blob/main/Equipo21_InformeTrabajoProfesional_2c2023.pdf)
 
 [:computer: Manual de ejecución](https://trabajo-profesional-grupo-21.github.io/manual-ejecucion/)
 
